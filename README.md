@@ -20,9 +20,3 @@ To enable the artificial intelligence features, **Chan-companion requires a pers
 *   **No API Keys Included:** For security and licensing reasons, the software is provided without any pre-configured API keys. Users must provide their own credentials to gain access to the AI's cognitive functions.
 *   **Open Source Transparency:** Since the project is fully open-source, the community can verify how the API keys are handled. You can inspect the source code to ensure that your credentials are used exclusively for communication with official OpenAI endpoints and are never transmitted to unauthorized third-party servers.
 
-## Distribution Policy
-
-This project is open-source and distributed under the Apache License 2.0. The official source code is hosted exclusively at the following repository: https://github.com. 
-
-Users are advised to consult the NOTICE file
-
